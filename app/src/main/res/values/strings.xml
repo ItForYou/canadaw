@@ -1,4 +1,6 @@
 <resources>
     <string name="app_name">canadaw</string>
-    <string name="index">http://canadaw.itforone.co.kr/</string>
+    <string name="index">http://canadaw2.itforone.co.kr/</string>
+    <string name="chklogin">http://canadaw2.itforone.co.kr/android_login.php?id=</string>
+
 </resources>
