@@ -21,3 +21,4 @@ class ClientManager extends WebViewClient {
         return true;
     }
 }
+
